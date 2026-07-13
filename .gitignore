@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+ocr_tool/screenshots/*
+!ocr_tool/screenshots/.gitkeep
